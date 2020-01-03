@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\bin\Debug\netcoreapp2.2\BeautifulDay.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\bin\Debug\netcoreapp2.2\BeautifulDay.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\bin\Debug\netcoreapp2.2\BeautifulDay.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\bin\Debug\netcoreapp2.2\BeautifulDay.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\bin\Debug\netcoreapp2.2\BeautifulDay.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\obj\Debug\netcoreapp2.2\BeautifulDay.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\obj\Debug\netcoreapp2.2\BeautifulDay.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\obj\Debug\netcoreapp2.2\BeautifulDay.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\obj\Debug\netcoreapp2.2\BeautifulDay.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\obj\Debug\netcoreapp2.2\BeautifulDay.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BeautifulDay\BeautifulDay\BeautifulDay\obj\Debug\netcoreapp2.2\BeautifulDay.pdb

@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\bin\Debug\netcoreapp2.2\Hangman.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\bin\Debug\netcoreapp2.2\Hangman.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\bin\Debug\netcoreapp2.2\Hangman.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\obj\Debug\netcoreapp2.2\Hangman.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\obj\Debug\netcoreapp2.2\Hangman.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\obj\Debug\netcoreapp2.2\Hangman.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\HangmanGame\Hangman\Hangman\obj\Debug\netcoreapp2.2\Hangman.pdb

@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\bin\Debug\netcoreapp2.2\DataBases.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\bin\Debug\netcoreapp2.2\DataBases.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\bin\Debug\netcoreapp2.2\DataBases.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\bin\Debug\netcoreapp2.2\DataBases.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\bin\Debug\netcoreapp2.2\DataBases.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\obj\Debug\netcoreapp2.2\DataBases.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\obj\Debug\netcoreapp2.2\DataBases.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\obj\Debug\netcoreapp2.2\DataBases.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\obj\Debug\netcoreapp2.2\DataBases.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\obj\Debug\netcoreapp2.2\DataBases.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\DataBases\DataBases\DataBases\obj\Debug\netcoreapp2.2\DataBases.pdb

@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\bin\Debug\netcoreapp2.2\AliceAndScores.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\bin\Debug\netcoreapp2.2\AliceAndScores.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\bin\Debug\netcoreapp2.2\AliceAndScores.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\bin\Debug\netcoreapp2.2\AliceAndScores.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\bin\Debug\netcoreapp2.2\AliceAndScores.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\obj\Debug\netcoreapp2.2\AliceAndScores.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\obj\Debug\netcoreapp2.2\AliceAndScores.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\obj\Debug\netcoreapp2.2\AliceAndScores.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\obj\Debug\netcoreapp2.2\AliceAndScores.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\obj\Debug\netcoreapp2.2\AliceAndScores.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DenseRanking\AliceAndScores\AliceAndScores\obj\Debug\netcoreapp2.2\AliceAndScores.pdb

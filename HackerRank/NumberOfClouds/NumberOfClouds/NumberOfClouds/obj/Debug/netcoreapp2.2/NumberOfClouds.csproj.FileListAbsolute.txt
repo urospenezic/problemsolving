@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\bin\Debug\netcoreapp2.2\NumberOfClouds.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\bin\Debug\netcoreapp2.2\NumberOfClouds.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\bin\Debug\netcoreapp2.2\NumberOfClouds.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\bin\Debug\netcoreapp2.2\NumberOfClouds.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\bin\Debug\netcoreapp2.2\NumberOfClouds.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\obj\Debug\netcoreapp2.2\NumberOfClouds.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\obj\Debug\netcoreapp2.2\NumberOfClouds.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\obj\Debug\netcoreapp2.2\NumberOfClouds.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\obj\Debug\netcoreapp2.2\NumberOfClouds.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\obj\Debug\netcoreapp2.2\NumberOfClouds.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NumberOfClouds\NumberOfClouds\NumberOfClouds\obj\Debug\netcoreapp2.2\NumberOfClouds.pdb

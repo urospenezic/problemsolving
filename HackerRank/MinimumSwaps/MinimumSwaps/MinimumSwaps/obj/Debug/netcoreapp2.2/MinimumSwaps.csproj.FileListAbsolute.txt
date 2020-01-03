@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp2.2\MinimumSwaps.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp2.2\MinimumSwaps.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp2.2\MinimumSwaps.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp2.2\MinimumSwaps.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp2.2\MinimumSwaps.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp2.2\MinimumSwaps.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp2.2\MinimumSwaps.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp2.2\MinimumSwaps.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp2.2\MinimumSwaps.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp2.2\MinimumSwaps.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MinimumSwaps\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp2.2\MinimumSwaps.pdb

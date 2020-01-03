@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BonApetit\BonApetit\BonApetit\bin\Debug\BonApetit.exe.config
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BonApetit\BonApetit\BonApetit\bin\Debug\BonApetit.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BonApetit\BonApetit\BonApetit\bin\Debug\BonApetit.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BonApetit\BonApetit\BonApetit\obj\Debug\BonApetit.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BonApetit\BonApetit\BonApetit\obj\Debug\BonApetit.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BonApetit\BonApetit\BonApetit\obj\Debug\BonApetit.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\BonApetit\BonApetit\BonApetit\obj\Debug\BonApetit.pdb

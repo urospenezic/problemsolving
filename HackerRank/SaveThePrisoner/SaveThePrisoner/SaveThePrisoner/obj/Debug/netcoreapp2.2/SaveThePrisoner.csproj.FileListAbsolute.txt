@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\bin\Debug\netcoreapp2.2\SaveThePrisoner.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\bin\Debug\netcoreapp2.2\SaveThePrisoner.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\bin\Debug\netcoreapp2.2\SaveThePrisoner.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\bin\Debug\netcoreapp2.2\SaveThePrisoner.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\bin\Debug\netcoreapp2.2\SaveThePrisoner.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\obj\Debug\netcoreapp2.2\SaveThePrisoner.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\obj\Debug\netcoreapp2.2\SaveThePrisoner.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\obj\Debug\netcoreapp2.2\SaveThePrisoner.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\obj\Debug\netcoreapp2.2\SaveThePrisoner.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\obj\Debug\netcoreapp2.2\SaveThePrisoner.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SaveThePrisoner\SaveThePrisoner\SaveThePrisoner\obj\Debug\netcoreapp2.2\SaveThePrisoner.pdb

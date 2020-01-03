@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\bin\Debug\netcoreapp2.2\BItWiseOperations.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\bin\Debug\netcoreapp2.2\BItWiseOperations.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\bin\Debug\netcoreapp2.2\BItWiseOperations.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\bin\Debug\netcoreapp2.2\BItWiseOperations.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\bin\Debug\netcoreapp2.2\BItWiseOperations.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\obj\Debug\netcoreapp2.2\BItWiseOperations.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\obj\Debug\netcoreapp2.2\BItWiseOperations.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\obj\Debug\netcoreapp2.2\BItWiseOperations.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\obj\Debug\netcoreapp2.2\BItWiseOperations.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\obj\Debug\netcoreapp2.2\BItWiseOperations.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\BitwiseOperations\BItWiseOperations\BItWiseOperations\obj\Debug\netcoreapp2.2\BItWiseOperations.pdb

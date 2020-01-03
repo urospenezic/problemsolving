@@ -1,0 +1,2 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DivideChocolate\DivideChocolate\DivideChocolate\obj\Debug\DivideChocolate.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DivideChocolate\DivideChocolate\DivideChocolate\obj\Debug\DivideChocolate.csproj.CoreCompileInputs.cache

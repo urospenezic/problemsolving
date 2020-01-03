@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\bin\Debug\netcoreapp2.2\MoreLinkedLists.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\bin\Debug\netcoreapp2.2\MoreLinkedLists.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\bin\Debug\netcoreapp2.2\MoreLinkedLists.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\bin\Debug\netcoreapp2.2\MoreLinkedLists.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\bin\Debug\netcoreapp2.2\MoreLinkedLists.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\obj\Debug\netcoreapp2.2\MoreLinkedLists.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\obj\Debug\netcoreapp2.2\MoreLinkedLists.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\obj\Debug\netcoreapp2.2\MoreLinkedLists.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\obj\Debug\netcoreapp2.2\MoreLinkedLists.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\obj\Debug\netcoreapp2.2\MoreLinkedLists.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\MoreLinkedLists\MoreLinkedLists\MoreLinkedLists\obj\Debug\netcoreapp2.2\MoreLinkedLists.csprojAssemblyReference.cache

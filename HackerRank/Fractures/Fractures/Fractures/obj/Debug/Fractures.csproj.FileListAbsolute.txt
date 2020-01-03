@@ -1,0 +1,7 @@
+D:\dokumenta\Visual Studio\Algorithms\Fractures\Fractures\Fractures\bin\Debug\Fractures.exe.config
+D:\dokumenta\Visual Studio\Algorithms\Fractures\Fractures\Fractures\bin\Debug\Fractures.exe
+D:\dokumenta\Visual Studio\Algorithms\Fractures\Fractures\Fractures\bin\Debug\Fractures.pdb
+D:\dokumenta\Visual Studio\Algorithms\Fractures\Fractures\Fractures\obj\Debug\Fractures.csprojAssemblyReference.cache
+D:\dokumenta\Visual Studio\Algorithms\Fractures\Fractures\Fractures\obj\Debug\Fractures.csproj.CoreCompileInputs.cache
+D:\dokumenta\Visual Studio\Algorithms\Fractures\Fractures\Fractures\obj\Debug\Fractures.exe
+D:\dokumenta\Visual Studio\Algorithms\Fractures\Fractures\Fractures\obj\Debug\Fractures.pdb

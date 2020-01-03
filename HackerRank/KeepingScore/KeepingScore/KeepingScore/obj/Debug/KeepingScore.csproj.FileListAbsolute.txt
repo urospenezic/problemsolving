@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\KeepingScore\KeepingScore\KeepingScore\bin\Debug\KeepingScore.exe.config
+D:\dokumenta\Work Work\Visual Studio\Algorithms\KeepingScore\KeepingScore\KeepingScore\bin\Debug\KeepingScore.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\KeepingScore\KeepingScore\KeepingScore\bin\Debug\KeepingScore.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\KeepingScore\KeepingScore\KeepingScore\obj\Debug\KeepingScore.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\KeepingScore\KeepingScore\KeepingScore\obj\Debug\KeepingScore.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\KeepingScore\KeepingScore\KeepingScore\obj\Debug\KeepingScore.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\KeepingScore\KeepingScore\KeepingScore\obj\Debug\KeepingScore.pdb

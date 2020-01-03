@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\bin\Debug\netcoreapp2.2\DivisibleOptimized.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\bin\Debug\netcoreapp2.2\DivisibleOptimized.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\bin\Debug\netcoreapp2.2\DivisibleOptimized.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\bin\Debug\netcoreapp2.2\DivisibleOptimized.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\bin\Debug\netcoreapp2.2\DivisibleOptimized.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\obj\Debug\netcoreapp2.2\DivisibleOptimized.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\obj\Debug\netcoreapp2.2\DivisibleOptimized.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\obj\Debug\netcoreapp2.2\DivisibleOptimized.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\obj\Debug\netcoreapp2.2\DivisibleOptimized.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\obj\Debug\netcoreapp2.2\DivisibleOptimized.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\TimeAndComplexity\DivisibleOptimized\DivisibleOptimized\obj\Debug\netcoreapp2.2\DivisibleOptimized.pdb

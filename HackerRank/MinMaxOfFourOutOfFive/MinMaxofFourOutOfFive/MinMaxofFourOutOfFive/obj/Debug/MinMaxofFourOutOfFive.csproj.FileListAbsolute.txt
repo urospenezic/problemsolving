@@ -1,0 +1,7 @@
+D:\dokumenta\Visual Studio\Algorithms\MinMaxOfFourOutOfFive\MinMaxofFourOutOfFive\MinMaxofFourOutOfFive\bin\Debug\MinMaxofFourOutOfFive.exe.config
+D:\dokumenta\Visual Studio\Algorithms\MinMaxOfFourOutOfFive\MinMaxofFourOutOfFive\MinMaxofFourOutOfFive\bin\Debug\MinMaxofFourOutOfFive.exe
+D:\dokumenta\Visual Studio\Algorithms\MinMaxOfFourOutOfFive\MinMaxofFourOutOfFive\MinMaxofFourOutOfFive\bin\Debug\MinMaxofFourOutOfFive.pdb
+D:\dokumenta\Visual Studio\Algorithms\MinMaxOfFourOutOfFive\MinMaxofFourOutOfFive\MinMaxofFourOutOfFive\obj\Debug\MinMaxofFourOutOfFive.csprojAssemblyReference.cache
+D:\dokumenta\Visual Studio\Algorithms\MinMaxOfFourOutOfFive\MinMaxofFourOutOfFive\MinMaxofFourOutOfFive\obj\Debug\MinMaxofFourOutOfFive.csproj.CoreCompileInputs.cache
+D:\dokumenta\Visual Studio\Algorithms\MinMaxOfFourOutOfFive\MinMaxofFourOutOfFive\MinMaxofFourOutOfFive\obj\Debug\MinMaxofFourOutOfFive.exe
+D:\dokumenta\Visual Studio\Algorithms\MinMaxOfFourOutOfFive\MinMaxofFourOutOfFive\MinMaxofFourOutOfFive\obj\Debug\MinMaxofFourOutOfFive.pdb

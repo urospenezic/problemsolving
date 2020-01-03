@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CatsAndMouse\CatsAndMouse\CatsAndMouse\bin\Debug\CatsAndMouse.exe.config
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CatsAndMouse\CatsAndMouse\CatsAndMouse\bin\Debug\CatsAndMouse.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CatsAndMouse\CatsAndMouse\CatsAndMouse\bin\Debug\CatsAndMouse.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CatsAndMouse\CatsAndMouse\CatsAndMouse\obj\Debug\CatsAndMouse.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CatsAndMouse\CatsAndMouse\CatsAndMouse\obj\Debug\CatsAndMouse.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CatsAndMouse\CatsAndMouse\CatsAndMouse\obj\Debug\CatsAndMouse.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CatsAndMouse\CatsAndMouse\CatsAndMouse\obj\Debug\CatsAndMouse.pdb

@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\PickingNumbers\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.pdb

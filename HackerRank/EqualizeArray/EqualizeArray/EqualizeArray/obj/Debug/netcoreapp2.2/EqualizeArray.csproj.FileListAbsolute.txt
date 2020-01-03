@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\bin\Debug\netcoreapp2.2\EqualizeArray.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\bin\Debug\netcoreapp2.2\EqualizeArray.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\bin\Debug\netcoreapp2.2\EqualizeArray.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\bin\Debug\netcoreapp2.2\EqualizeArray.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\bin\Debug\netcoreapp2.2\EqualizeArray.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\obj\Debug\netcoreapp2.2\EqualizeArray.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\obj\Debug\netcoreapp2.2\EqualizeArray.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\obj\Debug\netcoreapp2.2\EqualizeArray.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\obj\Debug\netcoreapp2.2\EqualizeArray.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\obj\Debug\netcoreapp2.2\EqualizeArray.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\EqualizeArray\EqualizeArray\EqualizeArray\obj\Debug\netcoreapp2.2\EqualizeArray.pdb

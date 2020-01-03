@@ -1,0 +1,45 @@
+//Building blocks of all programming languages
+//Variables
+//-----------------------------------------------------------
+//java
+String s = "Hello World";
+//python
+s = "Hello World"
+//c++
+string s = "Hello World";
+//Operations
+//-----------------------------------------------------------
+//java
+int x = 4 + 4;
+//Scheme / Racket
+(define x (+4 4 )) //functional programming language (like Lisp)
+//Control-flows
+//-----------------------------------------------------------
+//java
+int counter=5;
+while(counter>0)
+{
+	System.out.println(counter);
+	counter--;
+}
+// Swift (iOS Development)
+var counter = 5
+while counter>0
+{
+println(counter)
+counter--
+}
+//Functions
+//-----------------------------------------------------------
+//java
+public static String sayHello(String name)
+{
+String say= "Hello" + name;
+return say;
+}
+//Ruby (web dev) simillar to Lua (game development)
+def sayHello(name)
+    say = "Hello " + name
+	return var
+end
+//

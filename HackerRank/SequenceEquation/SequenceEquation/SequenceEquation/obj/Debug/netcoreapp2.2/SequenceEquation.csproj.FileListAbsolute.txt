@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\bin\Debug\netcoreapp2.2\SequenceEquation.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\bin\Debug\netcoreapp2.2\SequenceEquation.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\bin\Debug\netcoreapp2.2\SequenceEquation.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\bin\Debug\netcoreapp2.2\SequenceEquation.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\bin\Debug\netcoreapp2.2\SequenceEquation.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\obj\Debug\netcoreapp2.2\SequenceEquation.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\obj\Debug\netcoreapp2.2\SequenceEquation.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\obj\Debug\netcoreapp2.2\SequenceEquation.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\obj\Debug\netcoreapp2.2\SequenceEquation.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\obj\Debug\netcoreapp2.2\SequenceEquation.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SequenceEquation\SequenceEquation\SequenceEquation\obj\Debug\netcoreapp2.2\SequenceEquation.pdb

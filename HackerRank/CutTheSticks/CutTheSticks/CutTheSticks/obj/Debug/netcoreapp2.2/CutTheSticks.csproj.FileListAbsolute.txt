@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp2.2\CutTheSticks.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp2.2\CutTheSticks.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp2.2\CutTheSticks.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp2.2\CutTheSticks.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp2.2\CutTheSticks.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp2.2\CutTheSticks.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp2.2\CutTheSticks.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp2.2\CutTheSticks.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp2.2\CutTheSticks.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp2.2\CutTheSticks.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheSticks\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp2.2\CutTheSticks.pdb

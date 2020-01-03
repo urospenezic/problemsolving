@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\bin\Debug\netcoreapp2.2\AppendAndDelete.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\bin\Debug\netcoreapp2.2\AppendAndDelete.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\bin\Debug\netcoreapp2.2\AppendAndDelete.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\bin\Debug\netcoreapp2.2\AppendAndDelete.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\bin\Debug\netcoreapp2.2\AppendAndDelete.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\obj\Debug\netcoreapp2.2\AppendAndDelete.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\obj\Debug\netcoreapp2.2\AppendAndDelete.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\obj\Debug\netcoreapp2.2\AppendAndDelete.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\obj\Debug\netcoreapp2.2\AppendAndDelete.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\obj\Debug\netcoreapp2.2\AppendAndDelete.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AppendAndDelete\AppendAndDelete\AppendAndDelete\obj\Debug\netcoreapp2.2\AppendAndDelete.pdb

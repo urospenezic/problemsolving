@@ -1,0 +1,7 @@
+D:\dokumenta\Visual Studio\Algorithms\Candles\Candels\Candels\bin\Debug\Candels.exe.config
+D:\dokumenta\Visual Studio\Algorithms\Candles\Candels\Candels\bin\Debug\Candels.exe
+D:\dokumenta\Visual Studio\Algorithms\Candles\Candels\Candels\bin\Debug\Candels.pdb
+D:\dokumenta\Visual Studio\Algorithms\Candles\Candels\Candels\obj\Debug\Candels.csprojAssemblyReference.cache
+D:\dokumenta\Visual Studio\Algorithms\Candles\Candels\Candels\obj\Debug\Candels.csproj.CoreCompileInputs.cache
+D:\dokumenta\Visual Studio\Algorithms\Candles\Candels\Candels\obj\Debug\Candels.exe
+D:\dokumenta\Visual Studio\Algorithms\Candles\Candels\Candels\obj\Debug\Candels.pdb

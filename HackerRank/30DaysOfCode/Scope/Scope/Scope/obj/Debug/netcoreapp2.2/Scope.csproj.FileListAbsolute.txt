@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\bin\Debug\netcoreapp2.2\Scope.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\bin\Debug\netcoreapp2.2\Scope.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\bin\Debug\netcoreapp2.2\Scope.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\bin\Debug\netcoreapp2.2\Scope.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\bin\Debug\netcoreapp2.2\Scope.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\obj\Debug\netcoreapp2.2\Scope.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\obj\Debug\netcoreapp2.2\Scope.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\obj\Debug\netcoreapp2.2\Scope.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\obj\Debug\netcoreapp2.2\Scope.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\obj\Debug\netcoreapp2.2\Scope.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Scope\Scope\Scope\obj\Debug\netcoreapp2.2\Scope.pdb

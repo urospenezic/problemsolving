@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\bin\Debug\netcoreapp2.2\SherlockAndSquares.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\bin\Debug\netcoreapp2.2\SherlockAndSquares.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\bin\Debug\netcoreapp2.2\SherlockAndSquares.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\bin\Debug\netcoreapp2.2\SherlockAndSquares.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\bin\Debug\netcoreapp2.2\SherlockAndSquares.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\obj\Debug\netcoreapp2.2\SherlockAndSquares.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\obj\Debug\netcoreapp2.2\SherlockAndSquares.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\obj\Debug\netcoreapp2.2\SherlockAndSquares.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\obj\Debug\netcoreapp2.2\SherlockAndSquares.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\obj\Debug\netcoreapp2.2\SherlockAndSquares.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SherlockAndSquares\SherlockAndSquares\SherlockAndSquares\obj\Debug\netcoreapp2.2\SherlockAndSquares.pdb

@@ -1,0 +1,10 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\bin\Debug\netcoreapp2.2\ComputeFactorial.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\bin\Debug\netcoreapp2.2\ComputeFactorial.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\bin\Debug\netcoreapp2.2\ComputeFactorial.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\bin\Debug\netcoreapp2.2\ComputeFactorial.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\bin\Debug\netcoreapp2.2\ComputeFactorial.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\obj\Debug\netcoreapp2.2\ComputeFactorial.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\obj\Debug\netcoreapp2.2\ComputeFactorial.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\obj\Debug\netcoreapp2.2\ComputeFactorial.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\obj\Debug\netcoreapp2.2\ComputeFactorial.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ComputeFactorial\ComputeFactorial\ComputeFactorial\obj\Debug\netcoreapp2.2\ComputeFactorial.pdb

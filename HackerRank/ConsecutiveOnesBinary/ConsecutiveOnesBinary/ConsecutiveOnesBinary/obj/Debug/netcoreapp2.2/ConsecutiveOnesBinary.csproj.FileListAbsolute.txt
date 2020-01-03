@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\bin\Debug\netcoreapp2.2\ConsecutiveOnesBinary.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\bin\Debug\netcoreapp2.2\ConsecutiveOnesBinary.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\bin\Debug\netcoreapp2.2\ConsecutiveOnesBinary.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\bin\Debug\netcoreapp2.2\ConsecutiveOnesBinary.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\bin\Debug\netcoreapp2.2\ConsecutiveOnesBinary.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\obj\Debug\netcoreapp2.2\ConsecutiveOnesBinary.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\obj\Debug\netcoreapp2.2\ConsecutiveOnesBinary.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\obj\Debug\netcoreapp2.2\ConsecutiveOnesBinary.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\obj\Debug\netcoreapp2.2\ConsecutiveOnesBinary.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\obj\Debug\netcoreapp2.2\ConsecutiveOnesBinary.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ConsecutiveOnesBinary\ConsecutiveOnesBinary\ConsecutiveOnesBinary\obj\Debug\netcoreapp2.2\ConsecutiveOnesBinary.pdb

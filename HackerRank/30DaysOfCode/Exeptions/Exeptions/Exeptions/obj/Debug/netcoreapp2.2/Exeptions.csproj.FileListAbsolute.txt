@@ -1,0 +1,10 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Exeptions\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.pdb

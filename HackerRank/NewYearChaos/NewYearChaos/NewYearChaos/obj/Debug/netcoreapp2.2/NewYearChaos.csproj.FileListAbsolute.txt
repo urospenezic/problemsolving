@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp2.2\NewYearChaos.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp2.2\NewYearChaos.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp2.2\NewYearChaos.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp2.2\NewYearChaos.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp2.2\NewYearChaos.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp2.2\NewYearChaos.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp2.2\NewYearChaos.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp2.2\NewYearChaos.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp2.2\NewYearChaos.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp2.2\NewYearChaos.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\NewYearChaos\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp2.2\NewYearChaos.pdb

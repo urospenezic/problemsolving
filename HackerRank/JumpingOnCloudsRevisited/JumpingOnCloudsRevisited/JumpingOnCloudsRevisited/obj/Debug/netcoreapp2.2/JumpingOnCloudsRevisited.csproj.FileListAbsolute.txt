@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\bin\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\bin\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\bin\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\bin\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\bin\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\obj\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\obj\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\obj\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\obj\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\obj\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\JumpingOnCloudsRevisited\obj\Debug\netcoreapp2.2\JumpingOnCloudsRevisited.pdb

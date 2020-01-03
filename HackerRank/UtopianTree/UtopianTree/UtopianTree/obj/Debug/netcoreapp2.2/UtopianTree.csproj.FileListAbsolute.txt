@@ -1,0 +1,10 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.2\UtopianTree.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.2\UtopianTree.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.2\UtopianTree.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.2\UtopianTree.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.2\UtopianTree.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.2\UtopianTree.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.2\UtopianTree.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.2\UtopianTree.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.2\UtopianTree.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\UtopianTree\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.2\UtopianTree.pdb

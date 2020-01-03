@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\DrawingBook\DrawingBook\DrawingBook\bin\Debug\DrawingBook.exe.config
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\DrawingBook\DrawingBook\DrawingBook\bin\Debug\DrawingBook.exe
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\DrawingBook\DrawingBook\DrawingBook\bin\Debug\DrawingBook.pdb
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\DrawingBook\DrawingBook\DrawingBook\obj\Debug\DrawingBook.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\DrawingBook\DrawingBook\DrawingBook\obj\Debug\DrawingBook.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\DrawingBook\DrawingBook\DrawingBook\obj\Debug\DrawingBook.exe
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\DrawingBook\DrawingBook\DrawingBook\obj\Debug\DrawingBook.pdb

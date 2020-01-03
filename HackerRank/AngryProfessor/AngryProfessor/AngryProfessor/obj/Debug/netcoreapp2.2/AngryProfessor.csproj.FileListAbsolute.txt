@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp2.2\AngryProfessor.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp2.2\AngryProfessor.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp2.2\AngryProfessor.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp2.2\AngryProfessor.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp2.2\AngryProfessor.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp2.2\AngryProfessor.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp2.2\AngryProfessor.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp2.2\AngryProfessor.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp2.2\AngryProfessor.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp2.2\AngryProfessor.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp2.2\AngryProfessor.pdb

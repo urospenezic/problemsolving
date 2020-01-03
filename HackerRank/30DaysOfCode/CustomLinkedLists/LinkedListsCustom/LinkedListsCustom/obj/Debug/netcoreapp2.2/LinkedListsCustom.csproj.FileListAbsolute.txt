@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\bin\Debug\netcoreapp2.2\LinkedListsCustom.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\bin\Debug\netcoreapp2.2\LinkedListsCustom.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\bin\Debug\netcoreapp2.2\LinkedListsCustom.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\bin\Debug\netcoreapp2.2\LinkedListsCustom.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\bin\Debug\netcoreapp2.2\LinkedListsCustom.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\obj\Debug\netcoreapp2.2\LinkedListsCustom.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\obj\Debug\netcoreapp2.2\LinkedListsCustom.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\obj\Debug\netcoreapp2.2\LinkedListsCustom.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\obj\Debug\netcoreapp2.2\LinkedListsCustom.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\obj\Debug\netcoreapp2.2\LinkedListsCustom.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomLinkedLists\LinkedListsCustom\LinkedListsCustom\obj\Debug\netcoreapp2.2\LinkedListsCustom.pdb

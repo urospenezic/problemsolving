@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\Kangaroos\Kangaroos\Kangaroos\bin\Debug\Kangaroos.exe.config
+D:\dokumenta\Work Work\Visual Studio\Algorithms\Kangaroos\Kangaroos\Kangaroos\bin\Debug\Kangaroos.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\Kangaroos\Kangaroos\Kangaroos\bin\Debug\Kangaroos.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\Kangaroos\Kangaroos\Kangaroos\obj\Debug\Kangaroos.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\Kangaroos\Kangaroos\Kangaroos\obj\Debug\Kangaroos.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\Kangaroos\Kangaroos\Kangaroos\obj\Debug\Kangaroos.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\Kangaroos\Kangaroos\Kangaroos\obj\Debug\Kangaroos.pdb

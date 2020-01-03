@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\bin\Debug\netcoreapp2.2\LeftRotation.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\bin\Debug\netcoreapp2.2\LeftRotation.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\bin\Debug\netcoreapp2.2\LeftRotation.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\bin\Debug\netcoreapp2.2\LeftRotation.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\bin\Debug\netcoreapp2.2\LeftRotation.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\obj\Debug\netcoreapp2.2\LeftRotation.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\obj\Debug\netcoreapp2.2\LeftRotation.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\obj\Debug\netcoreapp2.2\LeftRotation.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\obj\Debug\netcoreapp2.2\LeftRotation.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\obj\Debug\netcoreapp2.2\LeftRotation.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LeftRotation\LeftRotation\LeftRotation\obj\Debug\netcoreapp2.2\LeftRotation.pdb

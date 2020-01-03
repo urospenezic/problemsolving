@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\bin\Debug\netcoreapp2.2\IntroToInterfaces.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\bin\Debug\netcoreapp2.2\IntroToInterfaces.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\bin\Debug\netcoreapp2.2\IntroToInterfaces.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\bin\Debug\netcoreapp2.2\IntroToInterfaces.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\bin\Debug\netcoreapp2.2\IntroToInterfaces.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\obj\Debug\netcoreapp2.2\IntroToInterfaces.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\obj\Debug\netcoreapp2.2\IntroToInterfaces.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\obj\Debug\netcoreapp2.2\IntroToInterfaces.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\obj\Debug\netcoreapp2.2\IntroToInterfaces.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\obj\Debug\netcoreapp2.2\IntroToInterfaces.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\IntroToInterfaces\IntroToInterfaces\IntroToInterfaces\obj\Debug\netcoreapp2.2\IntroToInterfaces.pdb

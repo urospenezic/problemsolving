@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\bin\Debug\netcoreapp2.2\PoissonDistribution1.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\bin\Debug\netcoreapp2.2\PoissonDistribution1.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\bin\Debug\netcoreapp2.2\PoissonDistribution1.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\bin\Debug\netcoreapp2.2\PoissonDistribution1.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\bin\Debug\netcoreapp2.2\PoissonDistribution1.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\obj\Debug\netcoreapp2.2\PoissonDistribution1.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\obj\Debug\netcoreapp2.2\PoissonDistribution1.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\obj\Debug\netcoreapp2.2\PoissonDistribution1.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\obj\Debug\netcoreapp2.2\PoissonDistribution1.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\obj\Debug\netcoreapp2.2\PoissonDistribution1.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\PoissonDistribution\PoissonDistribution1\PoissonDistribution1\obj\Debug\netcoreapp2.2\PoissonDistribution1.pdb

@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\bin\Debug\netcoreapp2.2\ModeMedianMean.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\bin\Debug\netcoreapp2.2\ModeMedianMean.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\bin\Debug\netcoreapp2.2\ModeMedianMean.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\bin\Debug\netcoreapp2.2\ModeMedianMean.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\bin\Debug\netcoreapp2.2\ModeMedianMean.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\obj\Debug\netcoreapp2.2\ModeMedianMean.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\obj\Debug\netcoreapp2.2\ModeMedianMean.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\obj\Debug\netcoreapp2.2\ModeMedianMean.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\obj\Debug\netcoreapp2.2\ModeMedianMean.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\obj\Debug\netcoreapp2.2\ModeMedianMean.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\10DaysOfStatistics\ModeMedianMean\ModeMedianMean\ModeMedianMean\obj\Debug\netcoreapp2.2\ModeMedianMean.pdb

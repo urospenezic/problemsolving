@@ -1,0 +1,10 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\bin\Debug\netcoreapp2.2\Sorting.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\bin\Debug\netcoreapp2.2\Sorting.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\bin\Debug\netcoreapp2.2\Sorting.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\bin\Debug\netcoreapp2.2\Sorting.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\bin\Debug\netcoreapp2.2\Sorting.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\obj\Debug\netcoreapp2.2\Sorting.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\obj\Debug\netcoreapp2.2\Sorting.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\obj\Debug\netcoreapp2.2\Sorting.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\obj\Debug\netcoreapp2.2\Sorting.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Sorting\Sorting\Sorting\obj\Debug\netcoreapp2.2\Sorting.pdb

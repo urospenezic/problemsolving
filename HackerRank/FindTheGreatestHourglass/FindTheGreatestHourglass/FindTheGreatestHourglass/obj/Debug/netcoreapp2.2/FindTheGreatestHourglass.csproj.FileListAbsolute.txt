@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\bin\Debug\netcoreapp2.2\FindTheGreatestHourglass.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\bin\Debug\netcoreapp2.2\FindTheGreatestHourglass.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\bin\Debug\netcoreapp2.2\FindTheGreatestHourglass.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\bin\Debug\netcoreapp2.2\FindTheGreatestHourglass.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\bin\Debug\netcoreapp2.2\FindTheGreatestHourglass.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\obj\Debug\netcoreapp2.2\FindTheGreatestHourglass.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\obj\Debug\netcoreapp2.2\FindTheGreatestHourglass.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\obj\Debug\netcoreapp2.2\FindTheGreatestHourglass.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\obj\Debug\netcoreapp2.2\FindTheGreatestHourglass.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\obj\Debug\netcoreapp2.2\FindTheGreatestHourglass.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindTheGreatestHourglass\FindTheGreatestHourglass\FindTheGreatestHourglass\obj\Debug\netcoreapp2.2\FindTheGreatestHourglass.pdb

@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\bin\Debug\netcoreapp2.2\DictionariesAndMapes.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\bin\Debug\netcoreapp2.2\DictionariesAndMapes.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\bin\Debug\netcoreapp2.2\DictionariesAndMapes.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\bin\Debug\netcoreapp2.2\DictionariesAndMapes.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\bin\Debug\netcoreapp2.2\DictionariesAndMapes.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\obj\Debug\netcoreapp2.2\DictionariesAndMapes.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\obj\Debug\netcoreapp2.2\DictionariesAndMapes.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\obj\Debug\netcoreapp2.2\DictionariesAndMapes.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\obj\Debug\netcoreapp2.2\DictionariesAndMapes.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\obj\Debug\netcoreapp2.2\DictionariesAndMapes.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DictionariesAndMaps\DictionariesAndMapes\DictionariesAndMapes\obj\Debug\netcoreapp2.2\DictionariesAndMapes.pdb

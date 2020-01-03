@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\bin\Debug\netcoreapp2.2\CircularBufferRotation.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\bin\Debug\netcoreapp2.2\CircularBufferRotation.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\bin\Debug\netcoreapp2.2\CircularBufferRotation.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\bin\Debug\netcoreapp2.2\CircularBufferRotation.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\bin\Debug\netcoreapp2.2\CircularBufferRotation.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\obj\Debug\netcoreapp2.2\CircularBufferRotation.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\obj\Debug\netcoreapp2.2\CircularBufferRotation.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\obj\Debug\netcoreapp2.2\CircularBufferRotation.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\obj\Debug\netcoreapp2.2\CircularBufferRotation.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\obj\Debug\netcoreapp2.2\CircularBufferRotation.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CircularBufferRotation\CircularBufferRotation\CircularBufferRotation\obj\Debug\netcoreapp2.2\CircularBufferRotation.pdb

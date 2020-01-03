@@ -1,0 +1,6 @@
+D:\dokumenta\Visual Studio\Algorithms\CompareTriplets\CompareTriplets\bin\Debug\CompareTriplets.dll
+D:\dokumenta\Visual Studio\Algorithms\CompareTriplets\CompareTriplets\bin\Debug\CompareTriplets.pdb
+D:\dokumenta\Visual Studio\Algorithms\CompareTriplets\CompareTriplets\obj\Debug\CompareTriplets.csprojAssemblyReference.cache
+D:\dokumenta\Visual Studio\Algorithms\CompareTriplets\CompareTriplets\obj\Debug\CompareTriplets.csproj.CoreCompileInputs.cache
+D:\dokumenta\Visual Studio\Algorithms\CompareTriplets\CompareTriplets\obj\Debug\CompareTriplets.dll
+D:\dokumenta\Visual Studio\Algorithms\CompareTriplets\CompareTriplets\obj\Debug\CompareTriplets.pdb

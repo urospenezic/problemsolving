@@ -1,0 +1,10 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\bin\Debug\netcoreapp2.2\LibraryFine.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\bin\Debug\netcoreapp2.2\LibraryFine.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\bin\Debug\netcoreapp2.2\LibraryFine.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\bin\Debug\netcoreapp2.2\LibraryFine.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\bin\Debug\netcoreapp2.2\LibraryFine.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\obj\Debug\netcoreapp2.2\LibraryFine.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\obj\Debug\netcoreapp2.2\LibraryFine.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\obj\Debug\netcoreapp2.2\LibraryFine.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\obj\Debug\netcoreapp2.2\LibraryFine.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\LibraryFine\LibraryFine\LibraryFine\obj\Debug\netcoreapp2.2\LibraryFine.pdb

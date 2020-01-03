@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\bin\Debug\netcoreapp2.2\CutTheString.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\bin\Debug\netcoreapp2.2\CutTheString.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\bin\Debug\netcoreapp2.2\CutTheString.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\bin\Debug\netcoreapp2.2\CutTheString.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\bin\Debug\netcoreapp2.2\CutTheString.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\obj\Debug\netcoreapp2.2\CutTheString.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\obj\Debug\netcoreapp2.2\CutTheString.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\obj\Debug\netcoreapp2.2\CutTheString.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\obj\Debug\netcoreapp2.2\CutTheString.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\obj\Debug\netcoreapp2.2\CutTheString.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\CutTheString\CutTheString\CutTheString\obj\Debug\netcoreapp2.2\CutTheString.pdb

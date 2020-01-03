@@ -1,0 +1,10 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp2.2\ViralAdvertising.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp2.2\ViralAdvertising.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp2.2\ViralAdvertising.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp2.2\ViralAdvertising.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp2.2\ViralAdvertising.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp2.2\ViralAdvertising.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp2.2\ViralAdvertising.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp2.2\ViralAdvertising.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp2.2\ViralAdvertising.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp2.2\ViralAdvertising.pdb

@@ -1,0 +1,54 @@
+Asymptotic Analysis: A very limited overview.
+
+This is a means of discussing the general efficiency of an an algorithm. When discussing the time complexity of an algorithm, we use the positive integer
+to represent the size of the data set it processes. To evaluate the actual algorithm, we must ignore machine-dependent constants (i.e., think about the number of instructions being executed, not about how fast a certain machine can execute them) and look at its growth rate as approaches (i.e., how does it grow as a function of time — especially as
+
+gets large?).
+
+Here are the big terms you need to know:
+
+
+is Theta of if and only if there exists some positive constants , , and such that whenever . In short, is bounded both above and below by because after some point , and
+have the same growth rate.
+
+is ("oh" or "big oh") of if and only if there exists some positive constants and such that whenever . In short, is bounded above by because after some point , will always grow at a larger asymptotic growth rate than
+.
+
+is Omega ("big omega") of if and only if there exists some positive constants and such that whenever . In short, is bounded below by because after some point , will always grow at a larger asymptotic growth rate than
+
+    .
+
+The term
+
+time, or "constant time", is used to refer to fundamental operations that take a constant amount of time to execute (e.g., reading a single value, performing a comparison between two values, checking a condition, etc.).
+
+At a very basic level, you need to think about how many instructions your algorithm must execute in the best and worst case scenarios when processing
+pieces of data. Then determine the function(s) that your algorithm is bounded above and below by, disregarding any leading constants (e.g., , , etc.) or lower-order terms (e.g., is a lower-order term than ); basically, you don't hang on to anything that doesn't directly impact the growth rate of and you only want to retain the term that has the greatest impact on growth rate (e.g., if , then is
+
+.
+
+Resource: Algorithms Sequential & Parallel: A Unified Approach.
+Example
+
+for(int i = 0; i < n; i++) {
+
+    for(int j = 0; j < n/2; j++) {
+        // Θ(1) operation  
+        // Θ(1) operation 
+        // Θ(1) operation 
+    }
+}
+
+In the nested loop above, there are three constant time operations that will be performed
+times as a result of the nested loops. Because , our code is
+
+.
+Primality Algorithms
+
+A prime number is a natural number greater than
+that is only divisible by and itself (note that is not a prime). A primality algorithm is an algorithm for determining if some number,
+
+, is prime.
+
+The most basic primality algorithm is to simply iterate through each integer
+(where ) and determine if it evenly divides ; if is an even divisor of , then is not prime. While this algorithm is , there are a number of optimizations you can perform that will reduce it to (even that can be slightly improved upon, though we will not discuss it here). What are you waiting for? Get started on today's challenge! And, when you're done, be sure to check the Editorial for a comparison of four primality algorithms.

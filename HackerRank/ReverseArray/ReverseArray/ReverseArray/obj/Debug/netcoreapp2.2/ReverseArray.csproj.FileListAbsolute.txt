@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ReverseArray\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.pdb

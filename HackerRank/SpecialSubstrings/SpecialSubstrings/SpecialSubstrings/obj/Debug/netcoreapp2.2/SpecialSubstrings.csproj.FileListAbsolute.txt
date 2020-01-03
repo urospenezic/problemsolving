@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\bin\Debug\netcoreapp2.2\SpecialSubstrings.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\bin\Debug\netcoreapp2.2\SpecialSubstrings.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\bin\Debug\netcoreapp2.2\SpecialSubstrings.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\bin\Debug\netcoreapp2.2\SpecialSubstrings.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\bin\Debug\netcoreapp2.2\SpecialSubstrings.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\obj\Debug\netcoreapp2.2\SpecialSubstrings.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\obj\Debug\netcoreapp2.2\SpecialSubstrings.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\obj\Debug\netcoreapp2.2\SpecialSubstrings.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\obj\Debug\netcoreapp2.2\SpecialSubstrings.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\obj\Debug\netcoreapp2.2\SpecialSubstrings.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\SpecialSubstrings\SpecialSubstrings\SpecialSubstrings\obj\Debug\netcoreapp2.2\SpecialSubstrings.pdb

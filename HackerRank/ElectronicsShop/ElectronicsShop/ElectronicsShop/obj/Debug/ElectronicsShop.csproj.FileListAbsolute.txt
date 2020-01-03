@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ElectronicsShop\ElectronicsShop\ElectronicsShop\bin\Debug\ElectronicsShop.exe.config
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ElectronicsShop\ElectronicsShop\ElectronicsShop\bin\Debug\ElectronicsShop.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ElectronicsShop\ElectronicsShop\ElectronicsShop\bin\Debug\ElectronicsShop.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ElectronicsShop\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ElectronicsShop\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ElectronicsShop\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ElectronicsShop\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.pdb

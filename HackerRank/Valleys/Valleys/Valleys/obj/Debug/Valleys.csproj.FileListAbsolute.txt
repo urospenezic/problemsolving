@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\Valleys\Valleys\Valleys\bin\Debug\Valleys.exe.config
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\Valleys\Valleys\Valleys\bin\Debug\Valleys.exe
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\Valleys\Valleys\Valleys\bin\Debug\Valleys.pdb
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\Valleys\Valleys\Valleys\obj\Debug\Valleys.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\Valleys\Valleys\Valleys\obj\Debug\Valleys.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\Valleys\Valleys\Valleys\obj\Debug\Valleys.exe
+D:\dokumenta\Work Work\Visual Studio\Plural Sight projects\Valleys\Valleys\Valleys\obj\Debug\Valleys.pdb

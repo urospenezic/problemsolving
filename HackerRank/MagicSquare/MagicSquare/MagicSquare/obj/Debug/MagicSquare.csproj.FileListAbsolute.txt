@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MagicSquare\MagicSquare\MagicSquare\bin\Debug\MagicSquare.exe.config
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MagicSquare\MagicSquare\MagicSquare\bin\Debug\MagicSquare.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MagicSquare\MagicSquare\MagicSquare\bin\Debug\MagicSquare.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MagicSquare\MagicSquare\MagicSquare\obj\Debug\MagicSquare.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MagicSquare\MagicSquare\MagicSquare\obj\Debug\MagicSquare.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MagicSquare\MagicSquare\MagicSquare\obj\Debug\MagicSquare.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\MagicSquare\MagicSquare\MagicSquare\obj\Debug\MagicSquare.pdb

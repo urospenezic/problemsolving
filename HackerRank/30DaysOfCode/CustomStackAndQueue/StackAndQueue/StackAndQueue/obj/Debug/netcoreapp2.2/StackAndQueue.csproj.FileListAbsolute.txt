@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.2\StackAndQueue.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.2\StackAndQueue.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.2\StackAndQueue.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.2\StackAndQueue.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.2\StackAndQueue.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.2\StackAndQueue.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.2\StackAndQueue.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.2\StackAndQueue.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.2\StackAndQueue.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.2\StackAndQueue.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\CustomStackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.2\StackAndQueue.pdb

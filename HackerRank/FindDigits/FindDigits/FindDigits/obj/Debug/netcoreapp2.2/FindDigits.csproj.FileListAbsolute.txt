@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\bin\Debug\netcoreapp2.2\FindDigits.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\bin\Debug\netcoreapp2.2\FindDigits.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\bin\Debug\netcoreapp2.2\FindDigits.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\bin\Debug\netcoreapp2.2\FindDigits.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\bin\Debug\netcoreapp2.2\FindDigits.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\obj\Debug\netcoreapp2.2\FindDigits.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\obj\Debug\netcoreapp2.2\FindDigits.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\obj\Debug\netcoreapp2.2\FindDigits.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\obj\Debug\netcoreapp2.2\FindDigits.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\obj\Debug\netcoreapp2.2\FindDigits.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FindDigits\FindDigits\FindDigits\obj\Debug\netcoreapp2.2\FindDigits.pdb

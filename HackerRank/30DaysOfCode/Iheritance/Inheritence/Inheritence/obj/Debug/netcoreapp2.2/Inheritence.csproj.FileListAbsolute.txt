@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\30DaysOfCode\Iheritance\Inheritence\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.pdb

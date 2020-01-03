@@ -1,0 +1,11 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp2.2\FactorialRecursion.deps.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp2.2\FactorialRecursion.runtimeconfig.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp2.2\FactorialRecursion.runtimeconfig.dev.json
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp2.2\FactorialRecursion.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp2.2\FactorialRecursion.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp2.2\FactorialRecursion.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp2.2\FactorialRecursion.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp2.2\FactorialRecursion.AssemblyInfoInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp2.2\FactorialRecursion.AssemblyInfo.cs
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp2.2\FactorialRecursion.dll
+D:\dokumenta\Work Work\Visual Studio\Algorithms\FactorialRecursion\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp2.2\FactorialRecursion.pdb

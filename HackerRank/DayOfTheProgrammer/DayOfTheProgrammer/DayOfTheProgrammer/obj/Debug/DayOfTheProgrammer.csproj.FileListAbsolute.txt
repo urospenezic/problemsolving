@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DayOfTheProgrammer\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\DayOfTheProgrammer.exe.config
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DayOfTheProgrammer\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\DayOfTheProgrammer.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DayOfTheProgrammer\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\DayOfTheProgrammer.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DayOfTheProgrammer\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DayOfTheProgrammer\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DayOfTheProgrammer\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\DayOfTheProgrammer\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.pdb

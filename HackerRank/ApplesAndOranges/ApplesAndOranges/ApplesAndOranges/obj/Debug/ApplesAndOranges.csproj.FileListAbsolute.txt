@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ApplesAndOranges\ApplesAndOranges\ApplesAndOranges\bin\Debug\ApplesAndOranges.exe.config
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ApplesAndOranges\ApplesAndOranges\ApplesAndOranges\bin\Debug\ApplesAndOranges.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ApplesAndOranges\ApplesAndOranges\ApplesAndOranges\bin\Debug\ApplesAndOranges.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ApplesAndOranges\ApplesAndOranges\ApplesAndOranges\obj\Debug\ApplesAndOranges.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ApplesAndOranges\ApplesAndOranges\ApplesAndOranges\obj\Debug\ApplesAndOranges.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ApplesAndOranges\ApplesAndOranges\ApplesAndOranges\obj\Debug\ApplesAndOranges.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\ApplesAndOranges\ApplesAndOranges\ApplesAndOranges\obj\Debug\ApplesAndOranges.pdb

@@ -1,0 +1,7 @@
+D:\dokumenta\Visual Studio\Algorithms\Staircase\Staircase\Staircase\bin\Debug\Staircase.exe.config
+D:\dokumenta\Visual Studio\Algorithms\Staircase\Staircase\Staircase\bin\Debug\Staircase.exe
+D:\dokumenta\Visual Studio\Algorithms\Staircase\Staircase\Staircase\bin\Debug\Staircase.pdb
+D:\dokumenta\Visual Studio\Algorithms\Staircase\Staircase\Staircase\obj\Debug\Staircase.csprojAssemblyReference.cache
+D:\dokumenta\Visual Studio\Algorithms\Staircase\Staircase\Staircase\obj\Debug\Staircase.csproj.CoreCompileInputs.cache
+D:\dokumenta\Visual Studio\Algorithms\Staircase\Staircase\Staircase\obj\Debug\Staircase.exe
+D:\dokumenta\Visual Studio\Algorithms\Staircase\Staircase\Staircase\obj\Debug\Staircase.pdb

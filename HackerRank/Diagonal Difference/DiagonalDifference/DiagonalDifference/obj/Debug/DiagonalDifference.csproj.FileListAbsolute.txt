@@ -1,0 +1,6 @@
+D:\dokumenta\Visual Studio\Algorithms\Diagonal Difference\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.dll
+D:\dokumenta\Visual Studio\Algorithms\Diagonal Difference\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+D:\dokumenta\Visual Studio\Algorithms\Diagonal Difference\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csprojAssemblyReference.cache
+D:\dokumenta\Visual Studio\Algorithms\Diagonal Difference\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\dokumenta\Visual Studio\Algorithms\Diagonal Difference\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.dll
+D:\dokumenta\Visual Studio\Algorithms\Diagonal Difference\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

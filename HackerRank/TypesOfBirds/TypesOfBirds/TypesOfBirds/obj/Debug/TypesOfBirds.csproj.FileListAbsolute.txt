@@ -1,0 +1,7 @@
+D:\dokumenta\Work Work\Visual Studio\Algorithms\TypesOfBirds\TypesOfBirds\TypesOfBirds\bin\Debug\TypesOfBirds.exe.config
+D:\dokumenta\Work Work\Visual Studio\Algorithms\TypesOfBirds\TypesOfBirds\TypesOfBirds\bin\Debug\TypesOfBirds.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\TypesOfBirds\TypesOfBirds\TypesOfBirds\bin\Debug\TypesOfBirds.pdb
+D:\dokumenta\Work Work\Visual Studio\Algorithms\TypesOfBirds\TypesOfBirds\TypesOfBirds\obj\Debug\TypesOfBirds.csprojAssemblyReference.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\TypesOfBirds\TypesOfBirds\TypesOfBirds\obj\Debug\TypesOfBirds.csproj.CoreCompileInputs.cache
+D:\dokumenta\Work Work\Visual Studio\Algorithms\TypesOfBirds\TypesOfBirds\TypesOfBirds\obj\Debug\TypesOfBirds.exe
+D:\dokumenta\Work Work\Visual Studio\Algorithms\TypesOfBirds\TypesOfBirds\TypesOfBirds\obj\Debug\TypesOfBirds.pdb

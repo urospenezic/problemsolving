@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputeFactorial", "ComputeFactorial\ComputeFactorial.csproj", "{B9CA9E37-17B1-4667-BAA3-D581A8D1154E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9CA9E37-17B1-4667-BAA3-D581A8D1154E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CA9E37-17B1-4667-BAA3-D581A8D1154E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CA9E37-17B1-4667-BAA3-D581A8D1154E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CA9E37-17B1-4667-BAA3-D581A8D1154E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45865D6C-244A-4F30-8754-D115A2B9C402}
+	EndGlobalSection
+EndGlobal
