@@ -1,0 +1,14 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/bin/Debug/netcoreapp3.1/Successor
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/bin/Debug/netcoreapp3.1/Successor.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/bin/Debug/netcoreapp3.1/Successor.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/bin/Debug/netcoreapp3.1/Successor.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/bin/Debug/netcoreapp3.1/Successor.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/bin/Debug/netcoreapp3.1/Successor.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/bin/Debug/netcoreapp3.1/BinarySearchTree.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/bin/Debug/netcoreapp3.1/BinarySearchTree.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/obj/Debug/netcoreapp3.1/Successor.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/obj/Debug/netcoreapp3.1/Successor.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/obj/Debug/netcoreapp3.1/Successor.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/obj/Debug/netcoreapp3.1/Successor.csproj.CopyComplete
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/obj/Debug/netcoreapp3.1/Successor.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/Successor/obj/Debug/netcoreapp3.1/Successor.pdb

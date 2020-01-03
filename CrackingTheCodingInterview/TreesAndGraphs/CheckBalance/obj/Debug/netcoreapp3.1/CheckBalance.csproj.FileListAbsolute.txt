@@ -1,0 +1,14 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/bin/Debug/netcoreapp3.1/CheckBalance
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/bin/Debug/netcoreapp3.1/CheckBalance.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/bin/Debug/netcoreapp3.1/CheckBalance.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/bin/Debug/netcoreapp3.1/CheckBalance.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/bin/Debug/netcoreapp3.1/CheckBalance.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/bin/Debug/netcoreapp3.1/CheckBalance.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/bin/Debug/netcoreapp3.1/BinarySearchTree.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/bin/Debug/netcoreapp3.1/BinarySearchTree.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/obj/Debug/netcoreapp3.1/CheckBalance.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/obj/Debug/netcoreapp3.1/CheckBalance.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/obj/Debug/netcoreapp3.1/CheckBalance.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/obj/Debug/netcoreapp3.1/CheckBalance.csproj.CopyComplete
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/obj/Debug/netcoreapp3.1/CheckBalance.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckBalance/obj/Debug/netcoreapp3.1/CheckBalance.pdb

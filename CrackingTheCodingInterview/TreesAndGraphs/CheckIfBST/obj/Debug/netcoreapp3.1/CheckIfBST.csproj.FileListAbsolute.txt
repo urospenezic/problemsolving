@@ -1,0 +1,14 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/bin/Debug/netcoreapp3.1/CheckIfBST
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/bin/Debug/netcoreapp3.1/CheckIfBST.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/bin/Debug/netcoreapp3.1/CheckIfBST.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/bin/Debug/netcoreapp3.1/CheckIfBST.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/bin/Debug/netcoreapp3.1/CheckIfBST.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/bin/Debug/netcoreapp3.1/CheckIfBST.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/bin/Debug/netcoreapp3.1/BinarySearchTree.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/bin/Debug/netcoreapp3.1/BinarySearchTree.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/obj/Debug/netcoreapp3.1/CheckIfBST.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/obj/Debug/netcoreapp3.1/CheckIfBST.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/obj/Debug/netcoreapp3.1/CheckIfBST.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/obj/Debug/netcoreapp3.1/CheckIfBST.csproj.CopyComplete
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/obj/Debug/netcoreapp3.1/CheckIfBST.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CheckIfBST/obj/Debug/netcoreapp3.1/CheckIfBST.pdb

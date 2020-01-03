@@ -1,0 +1,14 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/bin/Debug/netcoreapp3.1/CommonAncestor
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/bin/Debug/netcoreapp3.1/CommonAncestor.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/bin/Debug/netcoreapp3.1/CommonAncestor.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/bin/Debug/netcoreapp3.1/CommonAncestor.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/bin/Debug/netcoreapp3.1/CommonAncestor.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/bin/Debug/netcoreapp3.1/CommonAncestor.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/bin/Debug/netcoreapp3.1/BinarySearchTree.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/bin/Debug/netcoreapp3.1/BinarySearchTree.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/obj/Debug/netcoreapp3.1/CommonAncestor.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/obj/Debug/netcoreapp3.1/CommonAncestor.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/obj/Debug/netcoreapp3.1/CommonAncestor.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/obj/Debug/netcoreapp3.1/CommonAncestor.csproj.CopyComplete
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/obj/Debug/netcoreapp3.1/CommonAncestor.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/CommonAncestor/obj/Debug/netcoreapp3.1/CommonAncestor.pdb

@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/bin/Debug/netcoreapp3.1/RemoveDupl
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/bin/Debug/netcoreapp3.1/RemoveDupl.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/bin/Debug/netcoreapp3.1/RemoveDupl.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/bin/Debug/netcoreapp3.1/RemoveDupl.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/bin/Debug/netcoreapp3.1/RemoveDupl.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/bin/Debug/netcoreapp3.1/RemoveDupl.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/obj/Debug/netcoreapp3.1/RemoveDupl.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/obj/Debug/netcoreapp3.1/RemoveDupl.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/obj/Debug/netcoreapp3.1/RemoveDupl.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/obj/Debug/netcoreapp3.1/RemoveDupl.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RemoveDupl/obj/Debug/netcoreapp3.1/RemoveDupl.pdb

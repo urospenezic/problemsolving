@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/bin/Debug/netcoreapp3.1/Palindromes
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/bin/Debug/netcoreapp3.1/Palindromes.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/bin/Debug/netcoreapp3.1/Palindromes.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/bin/Debug/netcoreapp3.1/Palindromes.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/bin/Debug/netcoreapp3.1/Palindromes.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/bin/Debug/netcoreapp3.1/Palindromes.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/obj/Debug/netcoreapp3.1/Palindromes.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/obj/Debug/netcoreapp3.1/Palindromes.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/obj/Debug/netcoreapp3.1/Palindromes.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/obj/Debug/netcoreapp3.1/Palindromes.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Palindromes/obj/Debug/netcoreapp3.1/Palindromes.pdb

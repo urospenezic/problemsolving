@@ -1,0 +1,11 @@
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\bin\Debug\netcoreapp3.0\URLify.exe
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\bin\Debug\netcoreapp3.0\URLify.deps.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\bin\Debug\netcoreapp3.0\URLify.runtimeconfig.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\bin\Debug\netcoreapp3.0\URLify.runtimeconfig.dev.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\bin\Debug\netcoreapp3.0\URLify.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\bin\Debug\netcoreapp3.0\URLify.pdb
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\obj\Debug\netcoreapp3.0\URLify.csprojAssemblyReference.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\obj\Debug\netcoreapp3.0\URLify.AssemblyInfoInputs.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\obj\Debug\netcoreapp3.0\URLify.AssemblyInfo.cs
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\obj\Debug\netcoreapp3.0\URLify.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\URLify\URLify\URLify\obj\Debug\netcoreapp3.0\URLify.pdb

@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/bin/Debug/netcoreapp3.1/KthToLast
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/bin/Debug/netcoreapp3.1/KthToLast.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/bin/Debug/netcoreapp3.1/KthToLast.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/bin/Debug/netcoreapp3.1/KthToLast.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/bin/Debug/netcoreapp3.1/KthToLast.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/bin/Debug/netcoreapp3.1/KthToLast.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/obj/Debug/netcoreapp3.1/KthToLast.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/obj/Debug/netcoreapp3.1/KthToLast.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/obj/Debug/netcoreapp3.1/KthToLast.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/obj/Debug/netcoreapp3.1/KthToLast.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/KthToLast/KthToLast/obj/Debug/netcoreapp3.1/KthToLast.pdb

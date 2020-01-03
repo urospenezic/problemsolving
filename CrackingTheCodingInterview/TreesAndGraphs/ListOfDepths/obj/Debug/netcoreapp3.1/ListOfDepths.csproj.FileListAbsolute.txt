@@ -1,0 +1,14 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/bin/Debug/netcoreapp3.1/ListOfDepths
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/bin/Debug/netcoreapp3.1/ListOfDepths.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/bin/Debug/netcoreapp3.1/ListOfDepths.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/bin/Debug/netcoreapp3.1/ListOfDepths.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/bin/Debug/netcoreapp3.1/ListOfDepths.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/bin/Debug/netcoreapp3.1/ListOfDepths.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/obj/Debug/netcoreapp3.1/ListOfDepths.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/obj/Debug/netcoreapp3.1/ListOfDepths.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/obj/Debug/netcoreapp3.1/ListOfDepths.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/obj/Debug/netcoreapp3.1/ListOfDepths.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/obj/Debug/netcoreapp3.1/ListOfDepths.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/bin/Debug/netcoreapp3.1/BinarySearchTree.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/bin/Debug/netcoreapp3.1/BinarySearchTree.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/ListOfDepths/obj/Debug/netcoreapp3.1/ListOfDepths.csproj.CopyComplete

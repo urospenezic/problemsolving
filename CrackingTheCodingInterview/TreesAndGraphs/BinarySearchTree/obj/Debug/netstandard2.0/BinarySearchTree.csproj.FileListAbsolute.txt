@@ -1,0 +1,8 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BinarySearchTree/bin/Debug/netstandard2.0/BinarySearchTree.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BinarySearchTree/bin/Debug/netstandard2.0/BinarySearchTree.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BinarySearchTree/bin/Debug/netstandard2.0/BinarySearchTree.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BinarySearchTree/obj/Debug/netstandard2.0/BinarySearchTree.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BinarySearchTree/obj/Debug/netstandard2.0/BinarySearchTree.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BinarySearchTree/obj/Debug/netstandard2.0/BinarySearchTree.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BinarySearchTree/obj/Debug/netstandard2.0/BinarySearchTree.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BinarySearchTree/obj/Debug/netstandard2.0/BinarySearchTree.pdb

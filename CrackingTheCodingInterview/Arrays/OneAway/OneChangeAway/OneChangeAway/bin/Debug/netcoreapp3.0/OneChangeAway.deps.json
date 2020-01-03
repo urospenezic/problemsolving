@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OneChangeAway/1.0.0": {
+        "runtime": {
+          "OneChangeAway.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OneChangeAway/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

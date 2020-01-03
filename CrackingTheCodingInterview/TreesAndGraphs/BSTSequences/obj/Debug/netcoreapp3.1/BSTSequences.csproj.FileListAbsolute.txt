@@ -1,0 +1,14 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/bin/Debug/netcoreapp3.1/BSTSequences
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/bin/Debug/netcoreapp3.1/BSTSequences.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/bin/Debug/netcoreapp3.1/BSTSequences.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/bin/Debug/netcoreapp3.1/BSTSequences.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/bin/Debug/netcoreapp3.1/BSTSequences.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/bin/Debug/netcoreapp3.1/BSTSequences.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/bin/Debug/netcoreapp3.1/BinarySearchTree.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/bin/Debug/netcoreapp3.1/BinarySearchTree.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/obj/Debug/netcoreapp3.1/BSTSequences.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/obj/Debug/netcoreapp3.1/BSTSequences.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/obj/Debug/netcoreapp3.1/BSTSequences.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/obj/Debug/netcoreapp3.1/BSTSequences.csproj.CopyComplete
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/obj/Debug/netcoreapp3.1/BSTSequences.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/TreesAndGraphs/BSTSequences/obj/Debug/netcoreapp3.1/BSTSequences.pdb

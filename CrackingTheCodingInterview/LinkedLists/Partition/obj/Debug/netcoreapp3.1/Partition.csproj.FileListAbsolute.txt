@@ -1,0 +1,15 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/bin/Debug/netcoreapp3.1/Partition
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/bin/Debug/netcoreapp3.1/Partition.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/bin/Debug/netcoreapp3.1/Partition.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/bin/Debug/netcoreapp3.1/Partition.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/bin/Debug/netcoreapp3.1/Partition.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/bin/Debug/netcoreapp3.1/Partition.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/obj/Debug/netcoreapp3.1/Partition.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/obj/Debug/netcoreapp3.1/Partition.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/obj/Debug/netcoreapp3.1/Partition.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/obj/Debug/netcoreapp3.1/Partition.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/obj/Debug/netcoreapp3.1/Partition.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/bin/Debug/netcoreapp3.1/DeleteMiddleNode
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/bin/Debug/netcoreapp3.1/DeleteMiddleNode.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/bin/Debug/netcoreapp3.1/DeleteMiddleNode.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Partition/obj/Debug/netcoreapp3.1/Partition.csproj.CopyComplete

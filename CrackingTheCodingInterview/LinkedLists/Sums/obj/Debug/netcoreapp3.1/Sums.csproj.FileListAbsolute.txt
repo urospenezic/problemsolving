@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/bin/Debug/netcoreapp3.1/Sums
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/bin/Debug/netcoreapp3.1/Sums.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/bin/Debug/netcoreapp3.1/Sums.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/bin/Debug/netcoreapp3.1/Sums.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/bin/Debug/netcoreapp3.1/Sums.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/bin/Debug/netcoreapp3.1/Sums.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/obj/Debug/netcoreapp3.1/Sums.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/obj/Debug/netcoreapp3.1/Sums.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/obj/Debug/netcoreapp3.1/Sums.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/obj/Debug/netcoreapp3.1/Sums.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/Sums/obj/Debug/netcoreapp3.1/Sums.pdb

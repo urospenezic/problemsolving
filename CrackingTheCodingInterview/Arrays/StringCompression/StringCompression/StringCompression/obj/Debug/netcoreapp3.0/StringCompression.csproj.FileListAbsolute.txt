@@ -1,0 +1,11 @@
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\bin\Debug\netcoreapp3.0\StringCompression.exe
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\bin\Debug\netcoreapp3.0\StringCompression.deps.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\bin\Debug\netcoreapp3.0\StringCompression.runtimeconfig.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\bin\Debug\netcoreapp3.0\StringCompression.runtimeconfig.dev.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\bin\Debug\netcoreapp3.0\StringCompression.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\bin\Debug\netcoreapp3.0\StringCompression.pdb
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\obj\Debug\netcoreapp3.0\StringCompression.csprojAssemblyReference.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\obj\Debug\netcoreapp3.0\StringCompression.AssemblyInfoInputs.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\obj\Debug\netcoreapp3.0\StringCompression.AssemblyInfo.cs
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\obj\Debug\netcoreapp3.0\StringCompression.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringCompression\StringCompression\StringCompression\obj\Debug\netcoreapp3.0\StringCompression.pdb

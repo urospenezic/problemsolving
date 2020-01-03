@@ -1,0 +1,11 @@
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\bin\Debug\netcoreapp2.1\AlternatingCharacters.deps.json
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\bin\Debug\netcoreapp2.1\AlternatingCharacters.runtimeconfig.json
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\bin\Debug\netcoreapp2.1\AlternatingCharacters.runtimeconfig.dev.json
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\bin\Debug\netcoreapp2.1\AlternatingCharacters.dll
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\bin\Debug\netcoreapp2.1\AlternatingCharacters.pdb
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\obj\Debug\netcoreapp2.1\AlternatingCharacters.csproj.CoreCompileInputs.cache
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\obj\Debug\netcoreapp2.1\AlternatingCharacters.AssemblyInfoInputs.cache
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\obj\Debug\netcoreapp2.1\AlternatingCharacters.AssemblyInfo.cs
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\obj\Debug\netcoreapp2.1\AlternatingCharacters.dll
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\obj\Debug\netcoreapp2.1\AlternatingCharacters.pdb
+F:\Work Work\Algorithms\Alternating characters\AlternatingCharacters\obj\Debug\netcoreapp2.1\AlternatingCharacters.csprojAssemblyReference.cache

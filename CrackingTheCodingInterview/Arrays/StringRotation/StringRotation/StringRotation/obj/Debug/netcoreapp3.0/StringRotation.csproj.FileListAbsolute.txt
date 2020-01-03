@@ -1,0 +1,10 @@
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\bin\Debug\netcoreapp3.0\StringRotation.exe
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\bin\Debug\netcoreapp3.0\StringRotation.deps.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\bin\Debug\netcoreapp3.0\StringRotation.runtimeconfig.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\bin\Debug\netcoreapp3.0\StringRotation.runtimeconfig.dev.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\bin\Debug\netcoreapp3.0\StringRotation.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\bin\Debug\netcoreapp3.0\StringRotation.pdb
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\obj\Debug\netcoreapp3.0\StringRotation.AssemblyInfoInputs.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\obj\Debug\netcoreapp3.0\StringRotation.AssemblyInfo.cs
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\obj\Debug\netcoreapp3.0\StringRotation.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\StringRotation\StringRotation\StringRotation\obj\Debug\netcoreapp3.0\StringRotation.pdb

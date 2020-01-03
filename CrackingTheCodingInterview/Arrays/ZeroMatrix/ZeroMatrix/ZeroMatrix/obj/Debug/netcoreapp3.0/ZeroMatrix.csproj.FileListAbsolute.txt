@@ -1,0 +1,11 @@
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp3.0\ZeroMatrix.exe
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp3.0\ZeroMatrix.deps.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp3.0\ZeroMatrix.runtimeconfig.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp3.0\ZeroMatrix.runtimeconfig.dev.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp3.0\ZeroMatrix.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp3.0\ZeroMatrix.pdb
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp3.0\ZeroMatrix.csprojAssemblyReference.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp3.0\ZeroMatrix.AssemblyInfoInputs.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp3.0\ZeroMatrix.AssemblyInfo.cs
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp3.0\ZeroMatrix.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\ZeroMatrix\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp3.0\ZeroMatrix.pdb

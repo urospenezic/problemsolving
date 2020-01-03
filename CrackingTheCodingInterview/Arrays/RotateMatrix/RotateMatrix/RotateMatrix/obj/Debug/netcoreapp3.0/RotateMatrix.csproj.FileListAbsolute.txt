@@ -1,0 +1,11 @@
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\bin\Debug\netcoreapp3.0\RotateMatrix.exe
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\bin\Debug\netcoreapp3.0\RotateMatrix.deps.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\bin\Debug\netcoreapp3.0\RotateMatrix.runtimeconfig.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\bin\Debug\netcoreapp3.0\RotateMatrix.runtimeconfig.dev.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\bin\Debug\netcoreapp3.0\RotateMatrix.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\bin\Debug\netcoreapp3.0\RotateMatrix.pdb
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\obj\Debug\netcoreapp3.0\RotateMatrix.csprojAssemblyReference.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\obj\Debug\netcoreapp3.0\RotateMatrix.AssemblyInfoInputs.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\obj\Debug\netcoreapp3.0\RotateMatrix.AssemblyInfo.cs
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\obj\Debug\netcoreapp3.0\RotateMatrix.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\RotateMatrix\RotateMatrix\RotateMatrix\obj\Debug\netcoreapp3.0\RotateMatrix.pdb

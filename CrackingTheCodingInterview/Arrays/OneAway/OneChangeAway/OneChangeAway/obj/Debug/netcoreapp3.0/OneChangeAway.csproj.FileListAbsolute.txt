@@ -1,0 +1,11 @@
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\bin\Debug\netcoreapp3.0\OneChangeAway.exe
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\bin\Debug\netcoreapp3.0\OneChangeAway.deps.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\bin\Debug\netcoreapp3.0\OneChangeAway.runtimeconfig.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\bin\Debug\netcoreapp3.0\OneChangeAway.runtimeconfig.dev.json
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\bin\Debug\netcoreapp3.0\OneChangeAway.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\bin\Debug\netcoreapp3.0\OneChangeAway.pdb
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\obj\Debug\netcoreapp3.0\OneChangeAway.csprojAssemblyReference.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\obj\Debug\netcoreapp3.0\OneChangeAway.AssemblyInfoInputs.cache
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\obj\Debug\netcoreapp3.0\OneChangeAway.AssemblyInfo.cs
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\obj\Debug\netcoreapp3.0\OneChangeAway.dll
+E:\Work Work\Algorithms\CrackingTheCodingInterview\OneAway\OneChangeAway\OneChangeAway\obj\Debug\netcoreapp3.0\OneChangeAway.pdb

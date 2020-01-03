@@ -1,0 +1,11 @@
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\bin\Debug\netcoreapp2.1\Making Anagrams.deps.json
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\bin\Debug\netcoreapp2.1\Making Anagrams.runtimeconfig.json
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\bin\Debug\netcoreapp2.1\Making Anagrams.runtimeconfig.dev.json
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\bin\Debug\netcoreapp2.1\Making Anagrams.dll
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\bin\Debug\netcoreapp2.1\Making Anagrams.pdb
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\obj\Debug\netcoreapp2.1\Making Anagrams.csprojAssemblyReference.cache
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\obj\Debug\netcoreapp2.1\Making Anagrams.csproj.CoreCompileInputs.cache
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\obj\Debug\netcoreapp2.1\Making Anagrams.AssemblyInfoInputs.cache
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\obj\Debug\netcoreapp2.1\Making Anagrams.AssemblyInfo.cs
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\obj\Debug\netcoreapp2.1\Making Anagrams.dll
+F:\Work Work\Algorithms\Making anagrams\Making Anagrams\obj\Debug\netcoreapp2.1\Making Anagrams.pdb

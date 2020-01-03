@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/bin/Debug/netcoreapp3.1/DeleteMiddleNode
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/bin/Debug/netcoreapp3.1/DeleteMiddleNode.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/bin/Debug/netcoreapp3.1/DeleteMiddleNode.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/bin/Debug/netcoreapp3.1/DeleteMiddleNode.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/bin/Debug/netcoreapp3.1/DeleteMiddleNode.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/bin/Debug/netcoreapp3.1/DeleteMiddleNode.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/obj/Debug/netcoreapp3.1/DeleteMiddleNode.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/obj/Debug/netcoreapp3.1/DeleteMiddleNode.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/obj/Debug/netcoreapp3.1/DeleteMiddleNode.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/obj/Debug/netcoreapp3.1/DeleteMiddleNode.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/LinkedLists/DeleteMiddleNode/obj/Debug/netcoreapp3.1/DeleteMiddleNode.pdb

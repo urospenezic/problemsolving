@@ -1,0 +1,21 @@
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.deps.json
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.runtimeconfig.json
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.runtimeconfig.dev.json
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.dll
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.pdb
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.csproj.CoreCompileInputs.cache
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.AssemblyInfoInputs.cache
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.AssemblyInfo.cs
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.dll
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.pdb
+F:/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/bin/Debug/netcoreapp2.1/SherlockAndTheValidString.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/Sherlock and the valid string/SherlockAndTheValidString/obj/Debug/netcoreapp2.1/SherlockAndTheValidString.pdb
