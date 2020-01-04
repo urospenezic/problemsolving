@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/bin/Debug/netcoreapp3.1/MagicIndex
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/bin/Debug/netcoreapp3.1/MagicIndex.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/bin/Debug/netcoreapp3.1/MagicIndex.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/bin/Debug/netcoreapp3.1/MagicIndex.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/bin/Debug/netcoreapp3.1/MagicIndex.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/bin/Debug/netcoreapp3.1/MagicIndex.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/obj/Debug/netcoreapp3.1/MagicIndex.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/obj/Debug/netcoreapp3.1/MagicIndex.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/obj/Debug/netcoreapp3.1/MagicIndex.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/obj/Debug/netcoreapp3.1/MagicIndex.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/MagicIndex/obj/Debug/netcoreapp3.1/MagicIndex.pdb

@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/bin/Debug/netcoreapp3.1/RobotInAGrid
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/bin/Debug/netcoreapp3.1/RobotInAGrid.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/bin/Debug/netcoreapp3.1/RobotInAGrid.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/bin/Debug/netcoreapp3.1/RobotInAGrid.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/bin/Debug/netcoreapp3.1/RobotInAGrid.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/bin/Debug/netcoreapp3.1/RobotInAGrid.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/obj/Debug/netcoreapp3.1/RobotInAGrid.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/obj/Debug/netcoreapp3.1/RobotInAGrid.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/obj/Debug/netcoreapp3.1/RobotInAGrid.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/obj/Debug/netcoreapp3.1/RobotInAGrid.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/RobotInAGrid/obj/Debug/netcoreapp3.1/RobotInAGrid.pdb

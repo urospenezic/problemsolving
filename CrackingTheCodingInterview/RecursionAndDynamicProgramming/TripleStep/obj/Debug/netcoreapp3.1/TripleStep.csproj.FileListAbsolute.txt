@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/bin/Debug/netcoreapp3.1/TripleStep
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/bin/Debug/netcoreapp3.1/TripleStep.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/bin/Debug/netcoreapp3.1/TripleStep.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/bin/Debug/netcoreapp3.1/TripleStep.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/bin/Debug/netcoreapp3.1/TripleStep.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/bin/Debug/netcoreapp3.1/TripleStep.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/obj/Debug/netcoreapp3.1/TripleStep.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/obj/Debug/netcoreapp3.1/TripleStep.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/obj/Debug/netcoreapp3.1/TripleStep.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/obj/Debug/netcoreapp3.1/TripleStep.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TripleStep/obj/Debug/netcoreapp3.1/TripleStep.pdb
