@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/bin/Debug/netcoreapp3.1/TowersOfHanoi
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/bin/Debug/netcoreapp3.1/TowersOfHanoi.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/bin/Debug/netcoreapp3.1/TowersOfHanoi.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/bin/Debug/netcoreapp3.1/TowersOfHanoi.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/bin/Debug/netcoreapp3.1/TowersOfHanoi.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/bin/Debug/netcoreapp3.1/TowersOfHanoi.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/obj/Debug/netcoreapp3.1/TowersOfHanoi.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/obj/Debug/netcoreapp3.1/TowersOfHanoi.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/obj/Debug/netcoreapp3.1/TowersOfHanoi.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/obj/Debug/netcoreapp3.1/TowersOfHanoi.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/TowersOfHanoi/obj/Debug/netcoreapp3.1/TowersOfHanoi.pdb

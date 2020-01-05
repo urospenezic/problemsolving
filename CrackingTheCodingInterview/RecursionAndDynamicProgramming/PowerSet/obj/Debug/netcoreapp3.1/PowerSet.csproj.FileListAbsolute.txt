@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/bin/Debug/netcoreapp3.1/PowerSet
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/bin/Debug/netcoreapp3.1/PowerSet.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/bin/Debug/netcoreapp3.1/PowerSet.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/bin/Debug/netcoreapp3.1/PowerSet.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/bin/Debug/netcoreapp3.1/PowerSet.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/bin/Debug/netcoreapp3.1/PowerSet.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/obj/Debug/netcoreapp3.1/PowerSet.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/obj/Debug/netcoreapp3.1/PowerSet.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/obj/Debug/netcoreapp3.1/PowerSet.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/obj/Debug/netcoreapp3.1/PowerSet.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/RecursionAndDynamicProgramming/PowerSet/obj/Debug/netcoreapp3.1/PowerSet.pdb
