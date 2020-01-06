@@ -1,0 +1,11 @@
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/bin/Debug/netcoreapp3.1/GroupAnagrams
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/bin/Debug/netcoreapp3.1/GroupAnagrams.deps.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/bin/Debug/netcoreapp3.1/GroupAnagrams.runtimeconfig.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/bin/Debug/netcoreapp3.1/GroupAnagrams.runtimeconfig.dev.json
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/bin/Debug/netcoreapp3.1/GroupAnagrams.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/bin/Debug/netcoreapp3.1/GroupAnagrams.pdb
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/obj/Debug/netcoreapp3.1/GroupAnagrams.csprojAssemblyReference.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/obj/Debug/netcoreapp3.1/GroupAnagrams.AssemblyInfoInputs.cache
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/obj/Debug/netcoreapp3.1/GroupAnagrams.AssemblyInfo.cs
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/obj/Debug/netcoreapp3.1/GroupAnagrams.dll
+/media/lolsp2/Local Disk/Work Work/Algorithms/CrackingTheCodingInterview/SortingAndSearching/GroupAnagrams/obj/Debug/netcoreapp3.1/GroupAnagrams.pdb
