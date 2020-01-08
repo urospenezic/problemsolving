@@ -1,0 +1,2 @@
+<-- Query the smallest Northern Latitude (LAT_N) from STATION that is greater than . Round your answer to decimal places.
+select TOP(1) CAST(ROUND(s.LAT_N,4) as decimal(18,4)) from STATION s where s.LAT_N>38.7780 order by s.LAT_N

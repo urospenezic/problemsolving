@@ -1,0 +1,2 @@
+<--Query the total population of all cities in CITY where District is California. 
+select sum(c.POPULATION) as Pop from CITY c where c.DISTRICT='California';

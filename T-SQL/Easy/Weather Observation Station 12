@@ -1,0 +1,2 @@
+<-- Query the greatest value of the Northern Latitudes (LAT_N) from STATION that is less than 137.2345. Truncate your answer to 4 decimal places.
+select left(max(LAT_N), 8) as maxLant from STATION where LAT_N<137.23445
