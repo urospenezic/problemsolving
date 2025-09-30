@@ -41,7 +41,3 @@ Database query challenges organized by difficulty:
 ## 📄 License
 
 This is a personal learning repository. Feel free to use the code for educational purposes.
-
-## 👤 Author
-
-Solutions by Uros Penezic
